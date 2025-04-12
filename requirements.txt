@@ -1,0 +1,8 @@
+scikit-learn==1.6.1 
+numpy==2.2.4          
+
+lime==0.2.0.1         
+shap==0.47.1     
+
+matplotlib==3.10.1  
+pytest
